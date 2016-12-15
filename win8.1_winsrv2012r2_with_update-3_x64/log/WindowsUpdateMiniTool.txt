@@ -1,0 +1,983 @@
+[ 用于基于 x64 的系统的 Windows 8.1 和 Windows Server 2012 R2 的 Microsoft .NET Framework 3.5 安全更新程序 (KB2894852) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/windows8.1-kb2894852-v2-x64_0fba43b2aa19b2dcea1013a48594f4d6cdde49cb.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/windows8.1-kb2894852-v2-x64_f40c9c077041adcfb5402ad0ce6c9e557231035c.psf
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/08/windows8.1-kb2894852-v2-x64-express_41cea365ea07619df60e1674a583358f68645843.cab
+
+[ Windows Server 2012 R2 更新 (KB2919355) ]
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/02/windows8.1-kb2919355-x64_4cb78e5851de430f5ee77449bfc646235ea93d32.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/02/windows8.1-kb2919355-x64-express_b2fe3f085f2cdc8ea779e56533af66dd90972864.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/02/windows8.1-kb2919355-x64_66955196a82751d1c8d9806d321487562b159f41.psf
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/02/windows8.1-kb2932046-x64_9488604ee580a1fbd27b0460ef65714ad920e22e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/02/windows8.1-kb2932046-x64-express_69b23db4f912bd616e00987ed034430ebb6d910a.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/02/windows8.1-kb2932046-x64_3a631b689e5b66da831c42522083f9e1bbc5e7b1.psf
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2014/02/windows8.1-kb2937592-x64_eb8d2ba8642639247cdbefb9dfef0571dd8dbe9f.cab
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2014/02/windows8.1-kb2937592-x64-express_96f72270f03595340bda22f6a210181a91230862.cab
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2014/02/windows8.1-kb2937592-x64_62409e023d614176a4d1d06add22997dfbeb294c.psf
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2014/03/windows8.1-kb2938439-x64_93c0c79fef6211aac8d625dcf5e27813ce5590bb.cab
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2014/03/windows8.1-kb2938439-x64-express_92bc1c03b4ca8ff53a7e8c55e010d342bfecda73.cab
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2014/03/windows8.1-kb2938439-x64_a9c916268e54ea27ddf31fb68097a61e2833c261.psf
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2014/04/windows8.1-kb2934018-x64_0b702918265e22a8638cadfcb147e012325b0d09.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/windows8.1-kb2934018-x64-express_30db27dfdf5ed1b9cdaf5ac4d8a6b9ca8d5729c1.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/windows8.1-kb2934018-x64_f2c7f3a5692b6e1709166bab6d14c9f88c1cf300.psf
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/windows8.1-kb2959977-x64_80d1f06c80cc3d7844cfd8727fb5247ebad70991.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/windows8.1-kb2959977-x64_da8b794ebab9933f8d1d1850a029848d9fd19456.psf
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/windows8.1-kb2959977-x64-express_629db5a1b23dfa4f83f3e88c32efa03a875ecbc8.cab
+
+[ Windows Server 2012 R2 安全更新程序 (KB2920189) ]
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/07/windows8.1-kb2975061-x64_5518f613588d91d3fff4747bac3c811255b720e7.cab
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/07/windows8.1-kb2975061-x64_5869fc52ddb6ef99c68b9867d242fffc353da6e1.psf
+http://download.windowsupdate.com/d/msdownload/update/software/crup/2014/07/windows8.1-kb2975061-x64-express_4900b8bd59e36de4db75a457e81ac3633a01058d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/05/windows8.1-kb2920189-x64_64b7e4ae4b7c83272287e12598088018d86c372a.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/05/windows8.1-kb2920189-x64-express_7eed2cfbb5338639e5f4ad0cb09f8d69e877cd50.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/05/windows8.1-kb2920189-x64_dde8adc9c25aad543dba553f5f5c7b1c643b898c.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB2933826) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/windows8.1-kb2933826-x64_00a4e8ff93193723788d2b56495e5c79a2ee2ab8.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/windows8.1-kb2933826-x64-express_17fa2983730d27391cf6085e437dc9ba2d52d233.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/04/windows8.1-kb2933826-x64_e694562401f2b5268d23ee451110dafe55060e66.psf
+
+[ Windows Server 2012 R2 更新程序 (KB2938066) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/07/windows8.1-kb2938066-x64_7cae077a0bad7254b428f22209d62c2624791f34.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/07/windows8.1-kb2938066-x64-express_91fb5dee6574f28fc6effb5e1d5ee3d8df8d60b0.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/07/windows8.1-kb2938066-x64_ab882d9421d3163db298efca14fc15969ece4dff.psf
+
+[ 用于基于 x64 的系统的 Windows 8.1 和 Windows Server 2012 R2 上的 .NET Native 更新 (KB2954879) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/05/windows8.1-kb2954879-v2-x64_7e2146477888153e6308977bfc2bc14fea2f56b9.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/05/windows8.1-kb2954879-v2-x64-express_e0145a9345aeaaa062d9afc6533af8a31f68e970.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/05/windows8.1-kb2954879-v2-x64_90b1e888ccad04597d26471cd52c067ed0cebcc5.psf
+
+[ 用于基于 x64 的系统的 Windows 8.1 和 Windows Server 2012 R2 的 Microsoft .NET Framework 3.5 安全更新程序 (KB2966826) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/07/windows8.1-kb2966826-x64_8cac47f186ad0b79c2bf86fac1e6ef0ce64038dd.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/07/windows8.1-kb2966826-x64-express_c9bcf66acba24b52dc89e857f7d16663c303d001.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/07/windows8.1-kb2966826-x64_67ce6eabad878c0dbe7caacde018b423493ef51a.psf
+
+[ Windows Server 2012 R2 更新程序 (KB2967917) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/07/windows8.1-kb2967917-x64_5ba6a4d614a6486c83430ebd5a0de07f042fd9b5.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/07/windows8.1-kb2967917-x64-express_5b3e332ec9294e35077af7ab2f4b8a7449a5578d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/07/windows8.1-kb2967917-x64_c2cdeed67434b4096e8ac8e534024321e5ef259e.psf
+
+[ 用于基于 x64 的系统的 Windows 8.1 和 Windows Server 2012 R2 的 Microsoft .NET Framework 3.5 安全更新程序 (KB2968296) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windows8.1-kb2968296-x64_f53d611632f0019d2eca8ac0c07e4b14168963fe.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windows8.1-kb2968296-x64-express_db1d5f4ee7f53dfc1cea827db09dc4488e117180.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windows8.1-kb2968296-x64_dec270a8b38611f51f367a2259a72978bb09ba3a.psf
+
+[ 用于基于 x64 的系统的 Windows 8.1 和 Windows Server 2012 R2 的 Microsoft .NET Framework 3.5 安全更新程序 (KB2972103) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windows8.1-kb2972103-v2-x64_bf51b1c1736b88a1b4d0f2d08e4de90b14ed8ecb.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windows8.1-kb2972103-v2-x64-express_46bb7978b07a5dcf32d6c5bec395cb824b177a7c.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/09/windows8.1-kb2972103-v2-x64_9e0b410a0f2fcb1f0723eb79e4111b5bc84a418f.psf
+
+[ 用于基于 x64 的系统的 Windows 8.1 和 Windows Server 2012 R2 的 Microsoft .NET Framework 3.5 安全更新程序 (KB2973114) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/08/windows8.1-kb2973114-x64_d91d0bc1bb2cc0b183dffe0b4fcbaf78280a3fae.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/08/windows8.1-kb2973114-x64-express_bbfdb34758d4b6d2f842b1fa2f90936a3cb9513e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/08/windows8.1-kb2973114-x64_0aa8ed9f44573dae6b9326c59c1ea1c92a2ef5d1.psf
+
+[ 用于基于 x64 的系统的 Windows 8.1 和 Windows Server 2012 R2 的 Microsoft .NET Framework 3.5 安全更新程序 (KB2978122) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/10/windows8.1-kb2978122-x64_61259b9ef53834c4b0a6f5584f4943613e47db8f.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/10/windows8.1-kb2978122-x64-express_978eba5a7bda6304058409b0ad6e5db139aa0276.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2014/10/windows8.1-kb2978122-x64_836416ebc764bc9737dde6a822145cd73054cd72.psf
+
+[ Windows Server 2012 R2 更新程序 (KB2989930) ]
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2014/11/windows8.1-kb2989930-x64_3365c09dfcc91bbe9de030a88021462ca6c05eed.cab
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2014/11/windows8.1-kb2989930-x64-express_6ee10640fc278588debbdefdf56dc3b158c0526d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2014/11/windows8.1-kb2989930-x64_5deeeb6252746979f09bac3e6d1c77f4b49efbbf.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3000850) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/11/windows8.1-kb3000850-x64_6587d8609636fd5abd2c5659b805f754810b6c96.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/11/windows8.1-kb3000850-x64-express_338849ecac3b91492dc781787907dcca1d297b01.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/11/windows8.1-kb3000850-x64_3ec90fb363475a69da8549b071c152522f338283.psf
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/11/windows8.1-kb3003057-x64_9022e392c142be45297e0e78d63537e68d30ccca.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/11/windows8.1-kb3003057-x64-express_6c74b798fbc98821b4619e724f4f19676cdab644.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/11/windows8.1-kb3003057-x64_1075b9947d2451d26035eac294bda2bc88afe3d7.psf
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/11/windows8.1-kb3014442-x64_b3e40138f98399b76437abf80f391e44279e4ead.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/11/windows8.1-kb3014442-x64-express_201c776023fa3e6596202e41dd9d1853b57f1952.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2014/11/windows8.1-kb3014442-x64_6186ae135934bb3880957019749895f8155de710.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3004361) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windows8.1-kb3004361-x64_a0a5860f79eb1c8b76f97c2a14248cb519b6f1d0.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windows8.1-kb3004361-x64-express_9d93a2882158acd7af699336b0a8a5f8bb98ecc9.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windows8.1-kb3004361-x64_9c8e2caab7e014ff3aad19063b39c38aff5175ee.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3004365) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windows8.1-kb3004365-v2-x64_cb72fc5fc2dd5fb247469f9302495c81f54646b9.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windows8.1-kb3004365-v2-x64-express_c45cb889c71e18e81cb51d7435f27418515bdada.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windows8.1-kb3004365-v2-x64_8eaf72cc46fc829832656e0f0168f467de0572a3.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3004394) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/11/windows8.1-kb3004394-x64_5c007f2d973510aea73c82de00be427eb8c3bebe.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/11/windows8.1-kb3004394-x64-express_1050d84b080109d49e0a69b5e73bac73fe2eb012.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/11/windows8.1-kb3004394-x64_0a123b8d9d9622ad4e44a296870473bf94599490.psf
+
+[ 用于基于 x64 系统的 Windows 8.1 和 Windows Server 2012 R2 的 Microsoft .NET Framework 3.5 更新程序 (KB3005628) ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2014/10/windows8.1-kb2966828-x64_3d40b55a88a3b7b6d5cd56f916d3f3002bc8f158.cab
+
+[ Windows Server 2012 R2 更新程序 (KB3012235) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3012235-v3-x64_9f08400d6293493a8ac68cb632a6d40ffa829ddf.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3012235-v3-x64-express_859a10e42785381245e0a29b295b2a327fe73d84.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3012235-v3-x64_926e79a18c78e3120506e3c7dd6d5594c8c3bb15.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3012702) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/03/windows8.1-kb3012702-x64_fb14111680a3d43036ac0c444806cf370f4dc662.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/03/windows8.1-kb3012702-x64-express_64032397ed2844041229fb07792279c91c359f64.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/03/windows8.1-kb3012702-x64_663c54bb541109758b9515a40e080dbc9f3fff44.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3013172) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3013172-x64_1c1d099c7c7b385a9535fc502d800f18a3dd1e6d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3013172-x64-express_e5d8198e7f3df569f470ceda6d2405b8812c31b9.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3013172-x64_4543a963b492fa2f2035ecfc09272d23fc20c076.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3013531) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3013531-x64_4edf414d382bf3be71d217e1c78f632c02ca319f.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3013531-x64-express_24a031d24ced619df47b6331f3b9cf6af99c1a7e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3013531-x64_1945b1ed3cffa7eda41f5243ca81eb0ef4020dee.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3013538) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3013538-x64_32e13aff3b6d8cb020096f481c4ddfdde27088ee.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3013538-x64-express_670278cc5031872d28b7ab7bc11dc1d5d1c842ab.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3013538-x64_e9200a2cedf11b822ed8e7e1532f39ca44580c0b.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3013769) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/11/windows8.1-kb3013769-x64_8776ea2a5a48614e29c38cb005bbe59ac012da6f.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/11/windows8.1-kb3013769-x64-express_d1392d307b308d744ad8e7d3a765a99cf59efeea.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/11/windows8.1-kb3013769-x64_7b3eef4e1454c61ddb86470477ee25a63f156a48.psf
+http://download.windowsupdate.com/d/msdownload/update/software/htfx/2015/01/windows8.1-kb3004545-x64_0a6e0e17d331d06eb4bd2f271ebb13619b807ac2.cab
+
+[ Windows Server 2012 R2 更新程序 (KB3013791) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3013791-x64_d763f7dcbfce577ef31f4197f92e443039a03687.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3013791-x64-express_7e172fa27ecdfc36e0f41cacedcb414beb449c11.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3013791-x64_7f5e00094589d52dbe3ec25cf86bd7de6be3e143.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3013816) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/11/windows8.1-kb3013816-x64_b40beb0d5e19ba08b035e294784071ed3cf9e8dd.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/11/windows8.1-kb3013816-x64-express_30d17cfa9dfd04372286a0178783b9f06f8d56ce.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2014/11/windows8.1-kb3013816-x64_2f4ec579bbc55c2c65bce088a973a214d596e565.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3015696) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3015696-x64_229a5744863c27192590de458d7beadd3c5494a3.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3015696-x64-express_1a744c7d68a7b2235a5b88c27d28aea19d81a585.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3015696-x64_8dddf65310737b1d86a5080a35b98422b24379c5.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3018133) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3018133-x64_05542b450d989227ae6995450278e5ff8f5379bb.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3018133-x64-express_8211beaaca4710c6d304f5e70c77c1139f2a0873.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3018133-x64_50ac1001681d04fa0d2a7f13e57d99397aef709a.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3019978) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windows8.1-kb3019978-x64_fd77f36d51e48efd80b4fb1b95c3b5425e707ab8.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windows8.1-kb3019978-x64-express_664e6c63a6dadd97b73060d107146e3abbd6b280.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/01/windows8.1-kb3019978-x64_dae9bc0eab31757872ec4cea2d9db760d957fd4f.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3020338) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/01/windows8.1-kb3020338-x64_c87530099c6b81072a261bf83c239636f5bc5705.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/01/windows8.1-kb3020338-x64-express_1579e76d1e0d03794239e013e6299f6ccbfc3046.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/01/windows8.1-kb3020338-x64_63a5357de5eddbd3c09670f99d87b802ca5a2a67.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3020393) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windows8.1-kb3020393-x64_43e42a61a3d72ea4239e3a57ee71ca519a40aae6.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windows8.1-kb3020393-x64-express_e838ffd979dc178f7d542a8df0351161b8b44a55.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2014/12/windows8.1-kb3020393-x64_247d2db765bbf7d4a7d9ae2ba48129cdda017a3e.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3021910) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3021910-x64_ea31c3d711818ac6e653587cfbbd7aca39f67a16.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3021910-x64-express_ec28f1757a4d8502c41d06322e6c11c563d59ece.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3021910-x64_0ab6f6de84a12955dab628f6da571154718bf6a7.psf
+
+[ 用于基于 x64 的系统的 Windows 8.1 和 Windows Server 2012 R2 的 Microsoft .NET Framework 3.5 安全更新程序 (KB3023219) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/04/windows8.1-kb3023219-x64_a34fa026c6699fe492b4c04dfcbb243f64824104.cab
+
+[ Windows Server 2012 R2 更新程序 (KB3024751) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3024751-x64_e264451b0e97e4815bdd51267aa61bde836b497a.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3024751-x64-express_68c7c619848514b9794349ddcf9ece7b0feef4bc.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3024751-x64_9e80aa0224500018d8edf3c6d5ab6903245ec82b.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3024755) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3024755-x64_ea81f9084f208e59be92e2e1267a5b985bef857f.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3024755-x64-express_3967253c8588e7a51c6bb1c416ebb7725107d268.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3024755-x64_d6e513e3c7e7fe86660fa4b61895bccf01ebd7ea.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3029603) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/05/windows8.1-kb3029603-v2-x64_e0cc450ae14d2d3814949f45c737e5e4f2c5c7dc.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/05/windows8.1-kb3029603-v2-x64-express_030a3ee9d8fa74de41d3ad70a6d2927757927757.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/05/windows8.1-kb3029603-v2-x64_489d0837d03bdef0d403e9c889f3d4083fef218b.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3030947) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3030947-x64_e4282ab43e1e4ecfd6f411c2e7ccf8ea102f91f1.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3030947-x64-express_9e831099a40e206734d3c5e40abcbd944b36a82a.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3030947-x64_a568dc3d8be18e97c7946a3b02a34fe3a7ab5a5a.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3031044) ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2015/01/windows8.1-kb3031044-x64_8afe55f3a192415b52f33379a63635805b5ca686.cab
+
+[ Windows Server 2012 R2 更新程序 (KB3034348) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/10/windows8.1-kb3034348-v3-x64_461ce8aba81d410caf2106e2c943bda0fad86f15.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/10/windows8.1-kb3034348-v3-x64-express_0caada33d7141cd5130356c6d974f23592f2f9c0.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/10/windows8.1-kb3034348-v3-x64_a03cdf2529bc2ac3eb1a2e392335698ac9052f7c.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3035126) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/02/windows8.1-kb3035126-x64_01667251d25ac56e0707df329e382cfb1e94cc49.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/02/windows8.1-kb3035126-x64-express_0af107314962c6bdd21c0de236d63fbc1c8fd34b.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/02/windows8.1-kb3035126-x64_4a366d797dd14c947f88cd69417de54b31e8e1cc.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3036612) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3036612-x64_0752200ca1d25617ba91d913a4bbdc87db6c05c7.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3036612-x64-express_496e8bd4c2a022c5bd5c385678428161c3568c63.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/03/windows8.1-kb3036612-x64_120a2957e8d0803f9c0e19e2427757db2ff9e0e7.psf
+
+[ 用于基于 x64 的系统的 Windows 8.1 和 Windows Server 2012 R2 的 Microsoft .NET Framework 3.5 安全更新程序 (KB3037576) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/03/windows8.1-kb3037576-x64_684f74eb38d78fac0dde70305b976269e186e190.cab
+
+[ Windows Server 2012 R2 更新程序 (KB3037924) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3037924-v2-x64_f5bcc40c13885b8bffbbb3ef0997f492fd37b361.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3037924-v2-x64-express_6593dd95a632fbfa4c59de1ca59b99e1548b5189.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3037924-v2-x64_adbe29885c8d53f2043627889c452c49e9b92783.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3041857) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/05/windows8.1-kb3041857-x64_dc7aae291f75281574dd3f008f13cd79b9c7a240.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/05/windows8.1-kb3041857-x64-express_9e8b90c12ad25f5c0bf67b8184f7ebd221c7057b.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/05/windows8.1-kb3041857-x64_99d647ae9c6527b61ae9be5a8d5a14b43d7cb95b.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3044374) ]
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2015/03/windows8.1-kb3044374-x64_e9f7bc2c37794f7141a2b94998a0492b73493de6.cab
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2015/03/windows8.1-kb3044374-x64_95e9bb8ebf9c239d0608c74d99cd1377a015afc8.psf
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2015/03/windows8.1-kb3044374-x64-express_1f819cbb67f3396fbb980f38dc4269e31adf3fef.cab
+
+[ Windows Server 2012 R2 更新程序 (KB3044673) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3044673-v2-x64_9f0ac74fd8260c3c5c86e4d13dff2d4e23dad318.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3044673-v2-x64-express_fb2c902324dab99e8ef84bc5e91183a767b26c54.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/04/windows8.1-kb3044673-v2-x64_6fe059014f87b9a02c946f5bed0e8612fcf121f0.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3045634) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/05/windows8.1-kb3045634-x64_caf2d8e710bf6e2c7e948c7a5c734bdd2a840dd2.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/05/windows8.1-kb3045634-x64-express_99a79da4992ec8e1a3e8e6e4bc5317d909952e3d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/05/windows8.1-kb3045634-x64_042a6a6157d2bca68631e304a51f9886c86ef29b.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3045685) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windows8.1-kb3045685-x64_b88ee2dca80420c21ed122772f0cba298082a6fe.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windows8.1-kb3045685-x64-express_33b680c5895d804d05adb2ae4849875a4a3988eb.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windows8.1-kb3045685-x64_e2b20d906c6e723ebef9b493527c3dd908e495d3.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3045717) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows8.1-kb3045717-x64_1936a903594204d20db2d878c0c0161ebf209ebf.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows8.1-kb3045717-x64-express_d536b568f4cfc9878db13a3f493f0a0c259292d4.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows8.1-kb3045717-x64_b51c427b64327e62d890d3c336170ca0b6f50436.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3045719) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows8.1-kb3045719-x64_4f8132691677f6e925c5d3a8d5511b9f37a8267b.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows8.1-kb3045719-x64-express_b48b692dd82b7ea950e165120596be9058de33fe.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows8.1-kb3045719-x64_5b4f2650539f434f002a22be9419d6f588e4c75a.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3045755) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windows8.1-kb3045755-x64_285f418c25f7c7d3ee6c0bbbdcb18020e99052b7.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windows8.1-kb3045755-x64-express_4e8c143526c51b789dc7a93359d1e5e754947c44.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/03/windows8.1-kb3045755-x64_0f3950dd1770509c66b123f5af71ca57dae45554.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3045992) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows8.1-kb3045992-x64_cdb144aed42a1c4b168704f3ea659276dffb2201.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows8.1-kb3045992-x64-express_b6d11904250bfd28afc8a35a2d8323cfae4fdfdb.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows8.1-kb3045992-x64_3fa5f9887674d4514f3ba340e9c4a8b07ae91ac1.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3045999) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/03/windows8.1-kb3045999-x64_0b7668d0cb45018b5fc0d3e894db839c43622a33.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/03/windows8.1-kb3045999-x64-express_56197ac3407b3dc6a36d81f8810744b48fdac1ba.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/03/windows8.1-kb3045999-x64_f4791b6498a72840c41c98e5dc393bdcd91bc877.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3046017) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows8.1-kb3046017-x64_6f80cae2289d25a37b2d06522245cad05921a33d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows8.1-kb3046017-x64-express_655843d374b69a1a18fd63c781b918599d98190e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows8.1-kb3046017-x64_f0c8e7f30e1e0e4e5b2c269010fe87fa644e4d38.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3046339) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windows8.1-kb3046339-x64_457d1033163ed41973923ff8664390adef3056d8.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windows8.1-kb3046339-x64-express_4fafa0997cad13aed9d87a2c2e202ac0cb6b8052.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windows8.1-kb3046339-x64_90a96327eb7a694cfc9734a9f8d2b542ef3a4e37.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3046359) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windows8.1-kb3046359-x64_69fb24cedbb11f531e4c66228675c655d8b542c0.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windows8.1-kb3046359-x64-express_03d1058b43f82c1c09559a056e9287462513af45.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windows8.1-kb3046359-x64_3f82058b23811fb9894bb34d6d71b218bbb058d7.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3046737) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows8.1-kb3046737-x64_b2860c1b3c9ec3a94c6cf77a14d12028e6873960.cab
+
+[ Windows Server 2012 R2 安全更新程序 (KB3047234) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/03/windows8.1-kb3047234-x64_5c972c072885d258f3bf2af20020e16c6984e9b4.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/03/windows8.1-kb3047234-x64-express_6893dc51caa0174150188709e9a296652c70eb69.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/03/windows8.1-kb3047234-x64_3878dcb973708e8a1f135515655ab7843a02dadb.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3048043) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/05/windows8.1-kb3048043-x64_1090d05252e6e5bc3171e549d94359273e28700b.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/05/windows8.1-kb3048043-x64-express_7be66978c85e9dee3c3cac8bb5c703e4a611274a.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/05/windows8.1-kb3048043-x64_538306512d08ef7536ba27aafd42f6cf94e92766.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3052480) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/08/windows8.1-kb3052480-v2-x64_a6e2fa22bcba74b6373ccc580b3d44d29e212fc6.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/08/windows8.1-kb3052480-v2-x64-express_a2ff2f46aba035b815d9560d6e87a939ac6c5c12.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/08/windows8.1-kb3052480-v2-x64_528ef50a37601dd7e7ae74c37fb5ed6783b6bdee.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3053863) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3053863-x64_7a741e9f7c59b67404e588382bd91c0f71bddff9.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3053863-x64-express_422114e7e5c07f26987b9024880c141a1c334728.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3053863-x64_038c14d004f1c0c7dc880e3f1911a3052a19197a.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3054169) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows8.1-kb3054169-x64_860239c19d506093eca7c2f4e4046aa54890135b.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows8.1-kb3054169-x64-express_2ec05dbdb6cc681b47f6e7ba0a748e14584674cd.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/04/windows8.1-kb3054169-x64_9099980afb33f569588b0cef6a5e0859352e58c7.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3054203) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3054203-x64_0dbc88ca61f728d9e4caacc97fbbe6bf0260ccc2.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3054203-x64-express_16cb91a687d2c53730ef84ab3e6fa5f7bfb4e396.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3054203-x64_10e0d013922e39e0d3b9657790a0b49dc99a4833.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3054256) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3054256-v2-x64_81ce2fa16f200fed90a27d0bf75c49e537f83c67.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3054256-v2-x64-express_a6fe7543838df5a6bf4f1613682f38cff9694992.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3054256-v2-x64_1db8ee61c6404910521febcf8dc7e2ba46ef7b34.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3054464) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/05/windows8.1-kb3054464-x64_47880132f54a6f5402797312e7d372eaeca79464.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/05/windows8.1-kb3054464-x64-express_b49272865a84ee5720e5246d4bb09c02cc81d243.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/05/windows8.1-kb3054464-x64_52a4cfb27eedddf31e6b4093e16a85729c699ef4.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3055323) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/05/windows8.1-kb3055323-x64_167b44472689d0d27c8123729c6d0f77ae43e59e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/05/windows8.1-kb3055323-x64-express_2b8fd223250ffc454b6929449a9cd2db5a48312f.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/05/windows8.1-kb3055323-x64_b0da729e688856c169053d98d8d5236702149f2c.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3055343) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/07/windows8.1-kb3055343-v2-x64_bd5ad89f4f25c569df26474c5918804f2f023a57.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/07/windows8.1-kb3055343-v2-x64-express_f37b532f4226d47375935a352378257e6c701a26.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/07/windows8.1-kb3055343-v2-x64_78ae1ea693eee9c0ac5758785694f03ea3f9c4e7.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3055642) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/04/windows8.1-kb3055642-x64_59cd30d9c50c52ac6cc2d1adb723160ef6957d2e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/04/windows8.1-kb3055642-x64-express_dedd0547b048187e92bc5d022a114708fb1d5412.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/04/windows8.1-kb3055642-x64_6ff0809753f80490c743b2f6764b233bc11c6151.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3058168) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3058168-x64_37ff627df6d71db0976de9a8e56e08732dc43aaa.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3058168-x64-express_3b0450b6587b828d61b3bc8e6dc813d3df67e304.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3058168-x64_720ec6c0b874bb78c598f4e0d872022c24736b42.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3059316) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3059316-x64_43f8ca1186c2f322907b09b877ef72acde918646.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3059316-x64-express_f08f48b79b95a96550b79c48e1d318750e3797fd.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3059316-x64_cbfb8805486e8d41ac3cdb5297c36637a8a42f15.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3059317) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windows8.1-kb3059317-x64_53d78356964c6fcbf78a6b4254574edbe36877b5.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windows8.1-kb3059317-x64-express_3cc7fd3f64ee794c2f1c6df3417a3f3e7b022dd1.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/05/windows8.1-kb3059317-x64_2d41c85cc79a9a79041fe8da1fe29ef0f216bb5e.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3060793) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3060793-x64_d02780a0650e433e4306984a48c50aad755ade0f.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3060793-x64-express_dfbd1a0196804620beb45e2a0778d7d12eb04655.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3060793-x64_60aaf8294e648b80aa6a6084b1de11b6c0d5c78d.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3061512) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windows8.1-kb3061512-x64_30db8b5b5239de797f4d7af64c9c57572a9faaa8.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windows8.1-kb3061512-x64-express_be651b80d9871fea9fa08a1bceff89ed1f11669c.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/06/windows8.1-kb3061512-x64_f96abba5dbb5caff81dd01c0fb04142593d65d7a.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3063109) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows6.2-hypervintegrationservices-x64_0b414dc6202257bf6d0e7d69f3691c054fa2d405.cab
+
+[ Windows Server 2012 R2 更新程序 (KB3063843) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/wnfcleanup_1554613bdff029b53d7eb18ced36149a66d62306.exe
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3063843-x64_f606fe558414231ac15c95446d85230223c06444.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3063843-x64-express_de9d594f16ea2cc8d8a077d871269665f895041a.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/06/windows8.1-kb3063843-x64_313d68358ced561c1fac9ad77aee18547bbc4d29.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3071756) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows8.1-kb3071756-x64_a3914a24109577149a5eda07144fe736912ae0e4.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows8.1-kb3071756-x64-express_48be3aa4cd6e96c5de29976becbc0501cfbb275e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows8.1-kb3071756-x64_e55e4d4ab9a1876853d49c61d3fb5e138ede7b06.psf
+
+[ 用于基于 x64 的系统的 Windows 8.1 和 Windows Server 2012 R2 的 Microsoft .NET Framework 3.5 安全更新程序 (KB3072307) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3072307-x64_5ea0c28454c1bc24c5b448ccaaeb050ee762e600.cab
+
+[ 用于基于 x64 的系统的 Windows 8.1 和 Windows Server 2012 R2 的 Microsoft .NET Framework 3.5 安全更新程序 (KB3074545) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3074545-x64_9b81dbc73fc99ed8432eb5d7dffd87eb70e5272e.cab
+
+[ Windows Server 2012 R2 安全更新程序 (KB3075220) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows8.1-kb3075220-x64_53cc5afdd13f15ba5144e56dedc22b372fcef63f.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows8.1-kb3075220-x64-express_4fc6b61e843ab5ebb89cbed0fb9e451237fcddb1.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows8.1-kb3075220-x64_17543b39b912b7ea0e0d1d3ceac387fc6a66f20a.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3076949) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows8.1-kb3076949-x64_358e1f8faf5b9778b7e65e6906236b9d3ae11445.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows8.1-kb3076949-x64-express_71c1b9be988a15f8d77c3e922cddd75003a8461a.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/07/windows8.1-kb3076949-x64_e3797dfc94abe09c2612be94fd7f857a1cba19b2.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3077715) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/08/windows8.1-kb3077715-x64_8e8907287aeecc8f5ffaccbd7a6f4f524e9bb472.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/08/windows8.1-kb3077715-x64-express_a3a7d8fe35e69561c8edd07b09d5cf2a7380c182.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/08/windows8.1-kb3077715-x64_3b36ca3cbf180dd86935e29285e0b225fdb917da.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3078405) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/10/windows8.1-kb3078405-v2-x64_625ba1f60a9cf5ba9f51bf85212de4448e856b9f.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/10/windows8.1-kb3078405-v2-x64-express_40370fd2543d8a266d1e99ff5b05853f32f4dc09.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/10/windows8.1-kb3078405-v2-x64_cfeb595a336599fa549e5e29f2fc1e679470c42a.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3078676) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/08/windows8.1-kb3078676-x64_ad6e4753a48436ac0cfe78a237c7851f3e386699.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/08/windows8.1-kb3078676-x64-express_767fd2512767cf4981df189f037a3940a80eae0e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/08/windows8.1-kb3078676-x64_37349e2a7a0944d2c37dbdd0e2a09e39c8600da6.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3080042) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/09/windows8.1-kb3080042-x64_15cd3acff88665897143b392d41d8c23e1f2d4a8.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/09/windows8.1-kb3080042-x64-express_9a1ab08444a8bc2d79185f6082baf26427b7888e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/09/windows8.1-kb3080042-x64_ab6696ec75ba94c35bb42cf261577e0dbb508973.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3080149) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/08/windows8.1-kb3080149-x64_1a04900efa5833d2da074ecc85b742493a3b3ef2.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/08/windows8.1-kb3080149-x64-express_85b1a92a3b1037702671621a5ddc2dfbd5e0ebd0.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/08/windows8.1-kb3080149-x64_88344bcd9091b03e3102f31fd0f57d9de59396e5.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3082089) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3082089-x64_08cd5c63aabd9d1862197a057914b87f51a26cd8.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3082089-x64-express_78498c39a5182538e9ac03001822f50285fe8041.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3082089-x64_075b4d5cb8cf919231cf86d1aee74fbbcdcb660a.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3083992) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3083992-x64_e52398958512e4024f21d7b75582bbfd97fadd19.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3083992-x64-express_09241a4133dcdab2d404396777dfa3b67a3af143.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3083992-x64_a98ef434fb1d55abdb931178bdd6a7cfc949423e.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3084135) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3084135-x64_1585fa1306b5b3d4b27895a8f6ec3cda87f3c75e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3084135-x64-express_6e682f237578eef042f8338cb368ffcdf27a9e57.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3084135-x64_68b91b0d22342849d6a74f5b406fd3ae5c2f729a.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3084905) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/10/windows8.1-kb3084905-v2-x64_af52e37c3411d6890db2753cd9e5d0579e722307.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/10/windows8.1-kb3084905-v2-x64-express_20a4e5fd5ba5f9b2a482b2ae1edbff0ce02ba598.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/10/windows8.1-kb3084905-v2-x64_e028bcc6f0c1e95ca67152d7fb706423c058200d.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3086255) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3086255-x64_1c97751fb6c946381f53cd0cf24b962a73faa0ca.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3086255-x64-express_1720b8c8aa328d12917cb32479f757f5aaf3464f.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/08/windows8.1-kb3086255-x64_2f973931e768e045cbe99446d27cc98456b62df1.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3087041) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/09/windows8.1-kb3087041-x64_b3ea4bf02b0e58cf25afe5e2a7b04003df9c1a06.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/09/windows8.1-kb3087041-x64-express_0715002b16b5ad9d3a83908d17ccf3ac60b14879.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/09/windows8.1-kb3087041-x64_b3b7d4ae73f1d6afac5dfea60b3eb2bdad55f1de.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3087137) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/09/windows8.1-kb3087137-x64_1c8d5d9db5781f234916dbd239edc5e8c7639b18.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/09/windows8.1-kb3087137-x64-express_8f5297ec99389ff44145edc60c680ad3ff1be310.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/09/windows8.1-kb3087137-x64_0fac18911653ac5df7f0eeadc4eb0b2ff20c3e5a.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3091297) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/10/windows8.1-kb3091297-x64_41a1071daf40a23c539773bbce985174e1de97b5.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/10/windows8.1-kb3091297-x64-express_5716b830021623f5c65f067a9107a05ee6be2ba6.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/10/windows8.1-kb3091297-x64_76c394e0dadee546a6b1d901743b545057be7af0.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3092601) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windows8.1-kb3092601-x64_842c333d489ca201a01cbfe5dce6ad24218d94c6.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windows8.1-kb3092601-x64-express_b404b6745f14268d70b3c36f305796e9b5844eea.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windows8.1-kb3092601-x64_8a7900deddad215fbabcfbde830033dd0687f64d.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3092627) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/09/windows8.1-kb3092627-x64_08cc5801dadc0f6a4c3a8eda7da85ea6d360180b.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/09/windows8.1-kb3092627-x64-express_29fdd457f3628a314034cb879bcf23766ab9ad23.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/09/windows8.1-kb3092627-x64_43876cef9883b3206ef10bddfec1726368f9580f.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3094486) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/10/windows8.1-kb3094486-x64_33c014063a1909db1999803237b09674d5704208.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/10/windows8.1-kb3094486-x64-express_462bebf1c12fd6df3dc0b8ea318a3db19cbeb079.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/10/windows8.1-kb3094486-x64_382f2f64f77d7c2f2927924ea8ced123b7c84d84.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3095701) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/10/windows8.1-kb3095701-x64_b1d2464fc24978691e4271fab8de7d407e7c3368.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/10/windows8.1-kb3095701-x64-express_669ad1fb605a09e00f5610e1cc7f157cf8061d44.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/10/windows8.1-kb3095701-x64_dc581803c692ead31e87e03aff116a4cae4f7263.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3097966) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windows8.1-kb3097966-x64_26d673d5d466b9e26bd67e32417af18055a480f5.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windows8.1-kb3097966-x64-express_42322579d0479605a82fddf5664328bcc6917065.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windows8.1-kb3097966-x64_6fa37cc24deb4ca0ccdcca3e2ef59bd65f9bded8.psf
+
+[ 用于基于 x64 的系统的 Windows 8.1 和 Windows Server 2012 R2 的 Microsoft .NET Framework 3.5 安全更新程序 (KB3097992) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/10/windows8.1-kb3097992-x64_642e3f2c5d1a3cf111549bd4be469ed34f722add.cab
+
+[ Windows Server 2012 R2 更新程序 (KB3099834) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/windows8.1-kb3099834-x64_502cd20cb6f77b9af3712cbd7c9e7e29f6324ad6.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/windows8.1-kb3099834-x64-express_e92488ca1ed6ac2eff3449c86a101df5d94ebd4e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/windows8.1-kb3099834-x64_a533c02d6c0fee580583102185a089cb10aa5182.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3100473) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3100473-x64_80f6709d31c43f018ccfbfa7ee5e79632b6bd68e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3100473-x64-express_c0387758c8d0f2a838fc6e3ec756e70a946b8a59.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3100473-x64_45fb693d4af3df9d76b655f1c4dcffbfcd0e2474.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3100919) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/windows8.1-kb3100919-x64_00109f9cdc8a0a1c3eeb51f07ddf0fff42b99b01.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/windows8.1-kb3100919-x64-express_ba1813d37398e00417b12ddf29cd10b0ffc70e92.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/windows8.1-kb3100919-x64_89317776498d2967bca0ab47ec8718cf697692cd.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3100956) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/windows8.1-kb3100956-x64_330794be90976e117998a266a2264e27daec9ab2.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/windows8.1-kb3100956-x64-express_050ab0c4036f2a0e8cba28d1fb39b747295f9dc3.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2015/11/windows8.1-kb3100956-x64_12fef092f1451395974fbf015716f208f153e04d.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3102429) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/01/windows8.1-kb3102429-v2-x64_a905fe8ced4b611ce61fead2e4493066f98fcbc4.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/01/windows8.1-kb3102429-v2-x64-express_f41e0b087df27a93321fa8afe00132c2ab172efa.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/01/windows8.1-kb3102429-v2-x64_3b3f402082dfcad76b4467a696cb72a7d8d808fd.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3103616) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3103616-x64_bfd6b04bb3460126dde2dde69cb0b1b40780a90e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3103616-x64-express_354bbdf9cf7a04c163ec400bab3a8ff190468893.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3103616-x64_19a59df7937f8238a85cfb659d431cdd514c2ad8.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3103696) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/windows8.1-kb3103696-x64_b595994a369e92b190b09fbadea3da3a957c60db.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/windows8.1-kb3103696-x64-express_9d10d1fb2b564a4936236e9c2c8988829410f29c.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2015/11/windows8.1-kb3103696-x64_a4d055dbe0313610179bfc8b2b09143b78017392.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3103699) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3103699-x64_857ea559b045f8032da599420a2e7af3824400f2.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3103699-x64-express_39b0b5423a0c98e667bc7807beb390b0353af1ba.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3103699-x64_02663c5105c7dfe8a2e1ae135692f5fefa59c6e9.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3103709) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/04/windows8.1-kb3103709-v2-x64_249ebca5e550ff15044612e2af669266d98b3c50.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/04/windows8.1-kb3103709-v2-x64-express_3d5757b91f3c54e3fef19045ac8c8edeccbfffed.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/04/windows8.1-kb3103709-v2-x64_1eba76df52a3d83d67ac8af73345aa486516662c.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3108604) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/11/windows8.1-kb3108604-x64_e86fe6d35558ed3bdb9916c85236b9a3f237f19c.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/11/windows8.1-kb3108604-x64-express_52bb74deb7dabea7f418c1437527e92a78d5da57.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/11/windows8.1-kb3108604-x64_f5a9a19e42a5d3c031b438539469019131487733.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3109094) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/11/windows8.1-kb3109094-x64_f3565d8f6b53c5a85c654ab441b4696be918fe49.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/11/windows8.1-kb3109094-x64-express_c6194d8d6dcd8519f5a1500cc2c935fb180e0fe4.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/11/windows8.1-kb3109094-x64_e390ad5b78457e5ad0592f2f05b39758b6757eca.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3109103) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/11/windows8.1-kb3109103-x64_ab8fd7330b6ad8781258f12d668c21b20f98d6b9.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/11/windows8.1-kb3109103-x64-express_ec84d97f37a8860e143fa0d5672a4cbcdaa31c8e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/11/windows8.1-kb3109103-x64_42b387ec6f0057891a5d8362620a5d63aacca897.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3109560) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windows8.1-kb3109560-x64_37a21afb69159123703b6f8026adfb20ec7b0e55.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windows8.1-kb3109560-x64-express_d4e27ceb8f4fedaf4f38d764afd0b14033b4c1bd.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windows8.1-kb3109560-x64_c319084f3f00c7b9789335315bcea235bcbdc11f.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3109976) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3109976-x64_3318feae3867f01b8a2f77cbf64bbd890409799f.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3109976-x64-express_9c249f35271bb299a6d3fdfe443d07181b190a29.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3109976-x64_7c528a03021c324a0c9f080e397413296c6c47d5.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3110329) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windows8.1-kb3110329-x64_d684647aa6143ff34e428717a2afbf9dd2272804.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windows8.1-kb3110329-x64-express_9741534d58ced55b596659488fc9938f77d17158.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windows8.1-kb3110329-x64_d17047702497c0ce0edbadf54ed61bb77859c719.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3115224) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3115224-v2-x64_5bb451cee5e06f2cbde87a99f19735fc42b53ee5.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3115224-v2-x64-express_da41b2dfe308275c179199979fc554e0ff507169.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3115224-v2-x64_d8b11b5cff1eb9b9dcf762f531748dd79b41f5c7.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3118401) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3118401-x64_e04dc78a2345d2bfda64dfda52be2b27d5ebc50c.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3118401-x64-express_4d78f86376c42e0804d0f08a00a35340540f3250.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3118401-x64_9da110b8457c0b612fef658f492025af4f3addc2.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3121255) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3121255-x64_fa47b1752a0957c0ba02e4dd6cf0bcf0d9dce6b6.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3121255-x64-express_fc3fa404654572b63fe9303e042a2b553dbb7031.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3121255-x64_3968c95baa22238da61c8e2d84d90010f2e1f938.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3121261) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows8.1-kb3121261-v2-x64_b02cab286da879159a3ca000138b43fcebae7b39.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows8.1-kb3121261-v2-x64-express_bbfcea64dd69a6b0c49f8219479447998e74ebb1.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows8.1-kb3121261-v2-x64_25bc130e0ab2fc7176336d3cd3fa39ecd4928050.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3121918) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windows8.1-kb3121918-x64_41b9c7cc92dc3e36a86f8f530aa680e9e738908d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windows8.1-kb3121918-x64-express_556f788cae7614224d336a4977866d8831c7235c.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windows8.1-kb3121918-x64_a79326831e20a60ec1a85e2ad98b39d239c7a2c7.psf
+
+[ 适用于 Windows 8.1 和 Windows Server 2012 R2 x64 上的 Microsoft .NET Framework 3.5 的安全更新程序 (KB3122651) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/12/windows8.1-kb3122651-x64_f60714967745c76a6227b7c093c56e21c06b7329.cab
+
+[ Windows Server 2012 R2 更新程序 (KB3123242) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3123242-x64_a8baabfd805f0547ea7de5a2924f58102ed2653e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3123242-x64-express_739450e0f0e19a9f74ffc951388473b9b56409c5.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3123242-x64_9da7efb530be27cefdcdb7803073f521217c65e3.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3123245) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3123245-x64_f10ddb761a40f1fcb4b8b9073d567f598a0340eb.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3123245-x64-express_24b4395414dffcaf182df03818a3ad1d802eb340.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3123245-x64_88c3bdb38a8f6a6666def4c2617b94ec330ceeb3.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3123479) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/12/windows8.1-kb3123479-x64_5831143b19d290554b62baae6f3b3c3d51960197.cab
+
+[ Windows Server 2012 R2 安全更新程序 (KB3124280) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3124280-x64_4e18598a4de0e96257a3f12dccd8f3c141ad4a33.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3124280-x64-express_dc3fac13258e227b031dcbfd44b9c9801300364a.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3124280-x64_4431196253a251d8b8deeb0e5caaee2e79c4a79a.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3125424) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/04/windows8.1-kb3125424-x64_1cb44cb831d9d7c50e2376ade0d08868cd6cc956.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/04/windows8.1-kb3125424-x64-express_54b76549ab30aef54bef364d6a2e59c116c7890e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/04/windows8.1-kb3125424-x64_4c6e8d00300dba534ba7ceb2425794680fd55ca2.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3126033) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3126033-x64_1ed574cd670b1b909c73a2668db8c6bafc092ce4.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3126033-x64-express_9b800eb5af70b22f5e2a34d5c65717d20c5b886e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3126033-x64_7d2ef087f8455976c4db1b12cf3ff3b8e085f8c6.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3126434) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3126434-x64_af45c9c317c41e559388fde3c83d50edba5bd675.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3126434-x64-express_787dc673dd8124e61a6f58f60022dc79d1098e8a.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3126434-x64_c77a89b3c5a373c49ac7b01c56855374a349c7a6.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3126587) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3126587-x64_c96c573ee82705317bfc9c0dc87b6a1016ea9394.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3126587-x64-express_154b0402b4eff592623f9d3fb00122d343048b36.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3126587-x64_9a0eaabd3f9cb3d5e324b70588b8b13d3f3ca024.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3126593) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3126593-x64_9e51aa19bcd15cc3c242abdf66f2c9a0bc2cfb1a.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3126593-x64-express_b3eca5f1ab9e202b792cfd8b3dc5d7f6adfc97b8.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3126593-x64_a60104f039145330a2bac86e6a1441fe68a2df28.psf
+
+[ 适用于 Windows 8.1 和 Windows Server 2012 R2 x64 上的 Microsoft .NET Framework 3.5 的安全更新程序 (KB3127222) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3127222-x64_c7dba11ff75523e060f9df1748732f410e67379b.cab
+
+[ Windows Server 2012 R2 更新程序 (KB3128650) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3128650-x64_ce71562ffebecf53000d6b4adefa7b6de0ab2632.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3128650-x64-express_b498048e4d9d59f3e4cf14d9f666f0dd65a579ea.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3128650-x64_a6695485fd4ce014affc13169d7d6a3ca07e80e5.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3133043) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/01/windows8.1-kb3133043-x64_3736edb5ae210e1ce8786de0321de631faee78a5.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/01/windows8.1-kb3133043-x64-express_1a4c1fbf4018f672b1d43fd0e4bd99a5603604bf.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/01/windows8.1-kb3133043-x64_7d7070e3f7702b20798a1a74f38af7d4186b834c.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3133690) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3133690-x64_4f304a7f1a225fe205825e43a20687c6976a27d3.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3133690-x64-express_d0ac26ba3fb86b9709d5579b3848d73b2815894f.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3133690-x64_0fd0f5388ffc36ca1059a0217638b8e23ec3ca92.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3133924) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3133924-x64_ed0abf1271ed31f2ac6d33a3df2b6c4147e85669.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3133924-x64-express_d19f26d9d189147f76160abb53944a4ba723e869.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3133924-x64_c318cf5d0ddac8d0249f2d683bc67a58ed79c6fc.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3134179) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3134179-x64_e7c4399218281585aa5b9e5a34a7e0cef1c023c1.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3134179-x64-express_c524ef2a4002c1d4115b1231e927139f27f95e4c.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3134179-x64_d591cb03effb27ab4cd6df246e6d38191f73aebb.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3134242) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3134242-x64_57bf791907d163a4fc96caa3d6733876893d367b.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3134242-x64-express_2da7205a23cf4e099f61655f13e83aed9af2d4ff.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3134242-x64_52f12879c55a74538ae0f46c899fd913322965c8.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3134812) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3134812-x64_0c486089246511feb2898e0316210dc90a165bf4.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3134812-x64-express_95e3a71274019d7d36ce9a2b3c6c710c17671db4.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3134812-x64_da703d68da9f8e0e6c6e59c5a3eb9fbf5cf14035.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3134815) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3134815-x64_66ff795523f92e77cc02d02f1008ea45aece6f3f.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3134815-x64-express_7df8582e4b8cfb7ad32e607c6c425e02c5713c5e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/02/windows8.1-kb3134815-x64_5a1a34d4ed020df913a9632acb61db548d3c0e75.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3135456) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/03/windows8.1-kb3135456-x64_b9a4585fa285eaf11c037cd477a34e6befae6f1d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/03/windows8.1-kb3135456-x64-express_4a9b73aa130aa5b793f33846101fcb36898bce3d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/03/windows8.1-kb3135456-x64_de5b9946b9fc62bb91cc65ef0004bfa92454cfc4.psf
+
+[ 适用于 Windows 8.1 和 Windows Server 2012 R2 x64 上的 Microsoft .NET Framework 3.5 的安全更新程序 (KB3135985) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windows8.1-kb3135985-x64_b40dbc460ef232c5e68a38a7fa574c681b3a8e0a.cab
+
+[ Windows Server 2012 R2 更新程序 (KB3136019) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3136019-x64_c2e9e2c68a93a5adb753e417560f21a43eb8bcf3.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3136019-x64-express_f87629d26fc6181508d944f9e91f3e2b4d6ed77e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3136019-x64_12790b6375b80870989bc2f9871d5957b54693cf.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3137061) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3137061-x64_2543f0bdff8a0940f524430daafcca6a65dcb6d8.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3137061-x64-express_bb59512043060ca61ba58f64dd3b474f428e253a.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3137061-x64_8f5fcfd7beceb54d4beb9d3e0e9284d804d01377.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3137725) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3137725-x64_8a3a8ae00cb7b619a365f676a4d31f66e2649882.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3137725-x64-express_5e1a9cfb7af354c2f0d999c0a559d9fb7bbb6000.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3137725-x64_696202832f39678e82291e649cba671650fdbe6f.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3137728) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3137728-x64_234c66be097d8b6f6a3ea2d27d25ab46e1ffc86f.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3137728-x64-express_a1b703ec1b85331f104aeaffa19f64c68d286885.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3137728-x64_5cc2035cbbc56c99a45e68923e39053d668fe1f9.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3138378) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/04/windows8.1-kb3138378-x64_b9df9da4cfdc0133f64ee93d62bcf43c1b348d38.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/04/windows8.1-kb3138378-x64-express_c8ac84eb9a0ea4c5558da0910b5e589737a9a46b.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/04/windows8.1-kb3138378-x64_181f0e9771e9b7693e4e727c7c5f953f592d41bc.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3138602) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3138602-v2-x64_3fe58ebf1aa32d7bef5fd727e1499dd67a11c0fa.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3138602-v2-x64-express_a40b2c750015da1b7e985c4d9ce35bbf6bb68573.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3138602-v2-x64_5eeb5924039720b781ec1887665ffeb3412aacae.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3138615) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows8.1-kb3138615-x64_72745cb1a2bf8e93f41a9b42c9cd351ba486d0a1.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows8.1-kb3138615-x64-express_6a588147e17bd013743d769305dc7bfdffa0ea56.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/02/windows8.1-kb3138615-x64_38e6e4eeb4895cb36acc8830719f84a929579bde.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3138910) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windows8.1-kb3138910-x64_f0d2a6e4f8a5fb200765841c262ad274ed87acbc.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windows8.1-kb3138910-x64-express_cd687787a74aa9da8e7f44efe7b59a904e2ae844.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windows8.1-kb3138910-x64_fd54b3c2e7ca74fe14d4de04710b945f517ea1b0.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3138962) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windows8.1-kb3138962-x64_59645a7a0856ede2e3b4a1b637ab266feab18694.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windows8.1-kb3138962-x64-express_59320b0caccc77a0c88839d1cd59ac7227cb0e55.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windows8.1-kb3138962-x64_4dee9ed89ef0b9da92390297f1573301b5bf387a.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3139164) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3139164-x64_831c9af9c14a7ac028bd8fc9da95d59c862a6c05.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3139164-x64-express_6be8abb1ba28a0ed813ce0131253d73e1e1e30ec.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3139164-x64_0f898693631672e0da0ae4d00f4be5f0b24ff4de.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3139219) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3139219-x64_08a17b2e8bf2aed9b265e23894a5b8a1a89839c0.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3139219-x64-express_ce572ea0c088d0b85ba5d5c5403cf37a217a6bdc.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3139219-x64_0b690b9eb0b15e05b2d5413aae7fa5d6d772b0ea.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3139398) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windows8.1-kb3139398-x64_80ea83cef2429c5fdc9742c52f2933ed39b6089d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windows8.1-kb3139398-x64-express_14f04a0d41ef569b7fea9cd507d1242523437c22.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/02/windows8.1-kb3139398-x64_ca4fa2c4d37f2d92fc38e87e442bceec34410d6a.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3139649) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3139649-x64_a26d5b515396a29e480e298602aece4ddab1c2e3.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3139649-x64-express_7e45c83dde8d3f5d0f325d9d3129f81156c6d96a.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3139649-x64_3ef2f4e236138c5e71e3028625e15f3ac6f08903.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3139896) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3139896-x64_3e5a142ddb6e564e634fdd47baa613af1ff8fac7.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3139896-x64-express_12ca7e12327ce94b00cef647d357235320c7030d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3139896-x64_a68ef978e36b7f15b26bfb30d13cc11ff7124a52.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3139914) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/02/windows8.1-kb3139914-x64_9f7dcf9091a8562409252c67893df3e90cd22b66.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/02/windows8.1-kb3139914-x64-express_73758487a03469e1e0d657a499b3debc394aff8b.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/02/windows8.1-kb3139914-x64_6d5f8e4d8df911e1ae6e6a3d966971070b16cce4.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3140219) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3140219-x64_23b2320f07ed21fbd955a089e174cce8999b3b0d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3140219-x64-express_ee8bda9bea5663f4472800c0191353fc0480f54e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3140219-x64_d619ef0a0728eff0e4fb21324324d92cdffe3fc2.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3140222) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3140222-x64_0c5785d7ce67dce2229f8ae4013c06a217914752.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3140222-x64-express_e62a7ce8c06fb2f84f81975c258931d5d28f6fe1.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3140222-x64_343929344338ab08155f4b1bd147a74163a80fc1.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3140234) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3140234-x64_2e8c0b0d14f6be36d92f3456d83e7f4b31b7ca70.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3140234-x64-express_8ae62093c518a6bc57e5fb1d0a1df164b1455355.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3140234-x64_fc540f19b882f9c959ce9dad267a833d063dc939.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3140786) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3140786-x64_a829cca96ee32b1b511c247643172292f1ce0f98.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3140786-x64-express_0dd6c1d85aaba5d8ec4eda77a45dd211b4cbf8d8.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/03/windows8.1-kb3140786-x64_f1de995b3c0238dcd3a4785367b8b367aafff9ce.psf
+
+[ 适用于 Windows 8.1 和 Windows Server 2012 R2 x64 上的 Microsoft .NET Framework 3.5 的安全更新程序 (KB3142026) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/03/windows8.1-kb3142026-x64_d42114239024878a48364cf9bcb4f28143a28baf.cab
+
+[ 适用于 Windows 8.1 和 Windows Server 2012 R2 x64 上的 Microsoft .NET Framework 3.5 的安全更新程序 (KB3142045) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/03/windows8.1-kb3142045-x64_f605356be284d238ddaea4d4d278188ca3130f5c.cab
+
+[ Windows Server 2012 R2 更新程序 (KB3144850) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3144850-x64_bcf7d6e708870f5592c86a94414d74558d5c20d2.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3144850-x64-express_5fd8408cc0a2db653c3e4d99d6432b09662dc435.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3144850-x64_56de6f1dbada897605a8fbdcf6b569fd5196fdb0.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3145384) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3145384-x64_5e33c4ff7f29055774cf08bdce8aec1a20db39f0.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3145384-x64-express_c2c001657c8605e741171b65ad7df15d977c0100.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3145384-x64_9476112848112ddb3a5cc63eae1f29e1b3be8df3.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3145432) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3145432-x64_61263a536be4e3551b9da52e4e443aa078cd1346.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3145432-x64-express_5b2ff7c946142a7168e69c9e39b4cf1b502f452b.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3145432-x64_7ba4c08fcad6c2ea46869b2d72dd9025fc973e15.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3146601) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146601-x64_712d46f9e55dae6cc379cf2b95827cb5887ba275.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146601-x64-express_c662a3bce64c0e32fa4734f4efc1e25f4995a1db.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146601-x64_d34a7416546e4892cbd27c586663f8f3e2d431aa.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3146604) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146604-x64_831e1c9ef6812bc0fec70d285fe2d649f0c16690.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146604-x64-express_76c1e87ecf8f0decf40170d270b87b7d6c6e3870.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146604-x64_98d5dc5301b26adfdf47d7c7dd4e81c153ca6221.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3146723) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/03/windows8.1-kb3146723-x64_a4bc61d3868546e9ad862b4fbd1f108534e05bf8.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/03/windows8.1-kb3146723-x64-express_bbdfe7325428f5a926b386a8104c11351ab746bf.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/03/windows8.1-kb3146723-x64_802b25a2ae1ecd871452e1b1487eb6dc4794729f.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3146751) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146751-x64_03204f76e9a520042ab207fe9e9c37f31dc936ee.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146751-x64-express_5c77672a6db8e30012069245db7529aebad0964c.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146751-x64_e083236833267427a58babfa0f478dd9952b7404.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3146963) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/03/windows8.1-kb3146963-x64_79444bad9b4e7fe53fffdc2a0d9c8b61a72756be.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/03/windows8.1-kb3146963-x64-express_478f15cc2c50a92c034f0a21478f6b007730f0f7.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/03/windows8.1-kb3146963-x64_17bb66bf12277815e6d0379fd5fda394bacde370.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3146978) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146978-x64_04ad997e42cac6939b4b24ce9dd8afa8e328dad2.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146978-x64-express_e3a1e1173342bdd3e6dfb6a5943aad8495c72e0e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3146978-x64_6b8db42edea7010f5cfa61cb72ed463d97dcbb5c.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3147071) ]
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3147071-x64_a469008021f3981a8d0dbb8612749b58268723ab.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3147071-x64-express_591bde3c153e53b27ef2beab110e68471b1f1329.cab
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/03/windows8.1-kb3147071-x64_f6dad3cc4070198e50de4e9dcfc076fdfda0d5a0.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3148146) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3148146-x64_d4df84dc63bdfeae651535f272d43f252dc15345.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3148146-x64-express_39f52a66b9ca39bb8923fdfbbe8f1d31f507f841.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3148146-x64_0ea2e2c13f113c5912b8377ec67de470ac67ad4c.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3149090) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/03/windows8.1-kb3149090-x64_87655ec80366a98956fbffc36d35eddb3d1b7d86.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/03/windows8.1-kb3149090-x64-express_a4891aa987b41df4a1ce01d0da54a4f4b1105231.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/03/windows8.1-kb3149090-x64_cba8f98b36e098c79d1ab989d3d4746027345b25.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3149157) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3149157-x64_93f0de5e4581d64d2b07834863244c4f4f057470.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3149157-x64-express_86840ec346677f69b6be65a3b55da537875a4671.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/04/windows8.1-kb3149157-x64_0807b553f66f56071a3ca7e69631059c6b4dc601.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3151058) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/04/windows8.1-kb3151058-x64_5447ad128bf75f2f4521addb3b10dd8916b8e754.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/04/windows8.1-kb3151058-x64-express_b2e6d90f78794aed6512f1b75a3f19f23baec871.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/04/windows8.1-kb3151058-x64_654be82f7329ffdab3a3f65d64217f578fb088bc.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3153704) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows8.1-kb3153704-x64_342164a9fd88c6d019f8c728c5489f14801f5f3c.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows8.1-kb3153704-x64-express_8daf38be5f6ecd8286b7ba6fc7d46aed041cbeb3.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows8.1-kb3153704-x64_5b75d4e960e3f02754e1856fb2c0bf5479eca2b2.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3155784) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/04/windows8.1-kb3155784-x64_1fa94b5b28bba02f73cc3e5f25728e14edd48107.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows8.1-kb3155784-x64-express_95fcac0518e335264ee28853f6cc0b3fdb7cae5c.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows8.1-kb3155784-x64_9aa48fd36c2a212df679a04ed1553a8de6efbd06.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3156016) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows8.1-kb3156016-x64_9a9b6413628517d623d9a29f855e4fba926bc9a0.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows8.1-kb3156016-x64-express_d13a922849c60453a1cb2e4d1937e7e208a2c5ea.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows8.1-kb3156016-x64_d489a612d6d5454e50e3fad660b69ec8b34d28b2.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3156017) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows8.1-kb3156017-x64_5ae9472776b5e408a48f767f816ae5c093388cac.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows8.1-kb3156017-x64-express_95961197fcd239b8b4eedeecbb7abf6f8dd74f38.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/windows8.1-kb3156017-x64_c5832ec75f59dbd0c4a4326f74e8fe5142aa83dd.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3156019) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/04/windows8.1-kb3156019-x64_9ef5bfb0d74ce5b68c7c9446718d9bc04b5e2efa.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/04/windows8.1-kb3156019-x64-express_f4dd84b0207cff7b3ebbc3e2f0012760db34a684.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/04/windows8.1-kb3156019-x64_7f38b86418eaec76da3608804424ad899090c89b.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3156059) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/04/windows8.1-kb3156059-x64_11d2d91d15a02d79779f46abd4137ff78373bc4c.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/04/windows8.1-kb3156059-x64-express_f7017cb4cc29f68bb72aa8f74da400a581ae6c71.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/04/windows8.1-kb3156059-x64_0cc28eac15741b88a7a591829e67a7d3874d1950.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3156418) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/05/windows8.1-kb3156418-x64_1887a0216a8568dcd6543a2b1d6152c3f7658c35.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/05/windows8.1-kb3156418-x64-express_3820a2b9557c24ac2143bf4631745bc521fc303e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/05/windows8.1-kb3156418-x64_3652aba4de6a2d5110e61128ba302e8452cbb5d7.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3157569) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3157569-x64_6ee20dbd983c51ebeddc8e25ae8158ea0c0d59e0.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3157569-x64-express_e39035312f210d90f203f4069b26aeac5669ef0d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3157569-x64_53323e7c2276fc61aaca92ba70603bf6a994f4b4.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3159398) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows8.1-kb3159398-x64_6e5eb79e13e00ce8311148b88bdbfe78706d5d70.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows8.1-kb3159398-x64-express_399c31b2c5c83f157bea68a5afa37cb7d0e804bc.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows8.1-kb3159398-x64_8e70226c322295c570f1837b4aaef61df4bf46c3.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3159706) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/05/windows8.1-kb3159706-x64_3b3182b1b9681987874f27a20c73a08694cddc3d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/05/windows8.1-kb3159706-x64-express_f88459ed614517c975d98b6fa2d95b2a8730a795.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/05/windows8.1-kb3159706-x64_20ee8aac080a7b086e8bceeb712f6381be620edb.psf
+
+[ 用于 Windows Server 2012 R2 的 Internet Explorer 11 累积安全更新程序 (KB3160005) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows8.1-kb3160005-x64_c6dbb631ea52ac44a35f5aca9e9ce8ef32c1daa7.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows8.1-kb3160005-x64-express_ab8926eeb38a70dca694596cb9482a8f7fef8138.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows8.1-kb3160005-x64_63640e7dfac0eca88a5d2b083a83919952ec0ab9.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3160352) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3160352-x64_7fec5049e89483b233328367d1748d4f10444c16.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3160352-x64-express_035920e1cda586e18d2e5b8f367f59fa6ba6623c.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3160352-x64_60564899d6895b6c6c473933c7cabee05372341b.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3161561) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3161561-x64_ed92df30a5b3b1e9b30acf8bf87923056bdd34bc.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3161561-x64-express_408c49a4d7861574bb4a2b1e4f28def3c06a1074.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3161561-x64_0c03ea40bd0bfc42f1d240f59a6a2bc899de64cc.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3161606) ]
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/06/windows8.1-kb3161606-x64_984a4255217ca8179d79ed022679051e15bea185.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/06/windows8.1-kb3161606-x64-express_3c869975fc694e10a905ae65b28e0d50cb0fc093.cab
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/06/windows8.1-kb3161606-x64_e5b61ed53c86162a18bbea9845a8629f7472138c.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3161664) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows8.1-kb3161664-x64_cd2caa8cb00caa47ed03451f41ab21adff52a913.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows8.1-kb3161664-x64-express_de9a5af6b6dcb91efc317a42e28ebdca6dbc0794.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows8.1-kb3161664-x64_2f01a72d196d09b4572a4888fb16988a3b96808f.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3161949) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3161949-x64_ae8dcf9a49b52f13979cb45e8ce0ba34889c98c9.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3161949-x64-express_9c0836c7e88ce139d4e3564d55d6408aa813ed2c.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3161949-x64_345d3ea4513d3c20fe0900ad0df86001805c4be2.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3161958) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows8.1-kb3161958-x64_cf930ec036aa830611a373753a763d54d3fc0c71.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3161958-x64-express_993d851388bc526210553859137bcf51a2bd6044.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3161958-x64_24733a039add3de6381f1befc4d6015315f767f6.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3162343) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3162343-x64_3c206340cbe222f402645ce71b66eb1f11bbfe20.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3162343-x64-express_d32b39574c84a19a9c955e800fcc9b5e53d99f26.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3162343-x64_de533517ffd64e5e7ee9e978abc94c6c4e101dd4.psf
+
+[ Windows Server 2012 R2 更新程序 (KB3162835) ]
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2016/06/windows8.1-kb3162835-x64_7489d804b3e546e1878ed9e6bb715d74a7bcac97.cab
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2016/06/windows8.1-kb3162835-x64-express_9c293a4520c9ed84b982dbee6c2c2488028aeec3.cab
+http://download.windowsupdate.com/c/msdownload/update/software/uprl/2016/06/windows8.1-kb3162835-x64_7e170c81ec76be646d899e344e72c68970802b61.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3164033) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3164033-x64_7141cbe5930bc6cd9051a5d1e464087b27f862a2.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3164033-x64-express_6f29a19f0ffc4c52d835ac8d603b9a88900b4dea.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3164033-x64_068d1579b5c73e067921e0d98a400bd4bdf369d5.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3164035) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3164035-x64_7cbcbe6d26185fa19101bc6d357ce94d48eae1af.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3164035-x64-express_7ba30e432f05eb4db0cf52ca911a42ce21c7d595.cab
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/05/windows8.1-kb3164035-x64_f4307758f7b9a927b238b5cda2e76b79059ca9f5.psf
+
+[ Windows Server 2012 R2 安全更新程序 (KB3164294) ]
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows8.1-kb3164294-x64_25d2f19e2e7bcee0139a9c10782f44976363985c.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows8.1-kb3164294-x64-express_3bce2770e1da07a32dc420a5f070444c533df701.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/05/windows8.1-kb3164294-x64_990e71da5a5622fa735a525315ed6b8f3c9953eb.psf
+
+[ 用于 Windows Server 2012 R2 的 Adobe Flash Player 安全更新程序 (KB3167685) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/06/windows8.1-kb3167685-x64_d0c108ea0c1abcd693614667e4e78f56586e8d9f.cab
