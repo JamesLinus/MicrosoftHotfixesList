@@ -112,4 +112,5 @@ KB3179574	https://download.microsoft.com/download/5/0/B/50BCAD57-700C-4C6F-8E7B-
 KB3184143	https://download.microsoft.com/download/E/4/9/E49A0E03-5A4D-4ECE-8E5D-C5559D2F72D6/Windows8.1-KB3184143-x64.msu
 KB3201021	http://download.windowsupdate.com/d/msdownload/update/software/updt/2016/11/windows8.1-kb3201021-x64_11a7b4cb46d7671dfae29e7a2a53c7346732230f.msu
 KB3204474	http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/11/windows8.1-kb3204474-x64_1f87543a07be0e752aa633e93a81ee675c832b80.msu
+KB3210083	http://download.windowsupdate.com/c/msdownload/update/software/updt/2016/12/windows8.1-kb3210083-x64_ecddda58f3febc5a9ebf6e584416819a9abb0c63.msu
 windows6.2-hypervintegrationservices-x64.cab	
