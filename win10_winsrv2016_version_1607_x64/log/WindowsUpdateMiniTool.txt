@@ -240,5 +240,14 @@ http://download.windowsupdate.com/c/msdownload/update/software/crup/2016/10/wind
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2016/10/windows10.0-kb3199986-x64-express_8990b581327233636c185ee04979aad1c7907541.cab
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2016/10/windows10.0-kb3199986-x64_fa9174dbe0f4831a8f3502ab6291750f11d4691f.psf
 
-[ 用于基于 x64 系统的 Windows Server 2016 的 Adobe Flash Player 的安全更新程序 (KB3209498) ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/12/windows10.0-kb3209498-x64_c3aa7647fddde6b21161d7b0e9451f21a25a34e6.cab
+[ 适用于基于 x64 系统的 Windows Server 2016 累积更新 (KB3213986) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/12/windows10.0-kb3213986-x64_d7cbeb7c030ecf38b2092bb43105af314cf4e0ca.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/12/windows10.0-kb3213986-x64-express_b9b8e27f84641111a2fcbdac7cc29550d04ee777.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/12/windows10.0-kb3213986-x64_1_c8974e45f06c6b85cb1dd208b31783c58c9c348a.psf
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/12/windows10.0-kb3213986-x64_2_74257e7b0539f9c0bad091747189151a92126b07.psf
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/12/windows10.0-kb3213986-x64_3_b51b8c192ab203058493252474784e4c0bcd8eae.psf
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/12/windows10.0-kb3213986-x64_4_4d0eae43e709bd1acb3b08a04f28d21a80f43d79.psf
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/12/windows10.0-kb3213986-x64_5_a73e8329dbbbe3201bd3899b74d5bf8e83b4b6a8.psf
+
+[ 用于基于 x64 系统的 Windows Server 2016 的 Adobe Flash Player 的安全更新程序 (KB3214628) ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/01/windows10.0-kb3214628-x64_6be2f19fd87313e1e28b45d93443cf316ce74a32.cab

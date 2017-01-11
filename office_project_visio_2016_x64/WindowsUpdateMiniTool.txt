@@ -109,9 +109,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/crup/2016/11/oart
 [ Skype for Business 2016 安全更新 (KB3118327) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/09/lync-x-none_f66a6be5a937c15810208a6852a283f07394fa4f.cab
 
-[ Microsoft Word 2016 安全更新 (KB3118331) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/09/word-x-none_1dfae3100be171ee09f521ef435146336e26ebbb.cab
-
 [ Microsoft Office 2016 更新 (KB3118338) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2016/10/msodll20-x-none_d0aa4dcb4a7ad316e0734b49427162936edf05f5.cab
 
@@ -123,9 +120,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/crup/2016/11/osfc
 
 [ Microsoft Office 2016 更新 (KB3127983) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/crup/2016/12/csi-x-none_8f4beb8dbe6a2b92ad0415411710391cdc49b6ed.cab
-
-[ Microsoft Word 2016 更新 (KB3127984) 64 位版本 ]
-http://download.windowsupdate.com/d/msdownload/update/software/crup/2016/11/word-x-none_b1928d3d067da0f70357ccff3e14bd3f07939d6e.cab
 
 [ Microsoft Office 2016 安全更新 (KB3127986) 64 位版本 ]
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2016/11/mso-x-none_bdcee7c62b0c954b0dbf329c9637ce1108aee5a8.cab
@@ -156,6 +150,9 @@ http://download.windowsupdate.com/c/msdownload/update/software/crup/2016/12/msod
 
 [ Microsoft Office 2016 更新 (KB3128056) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2016/12/outexum-x-none_64890c55ff67489154150a39ba9f5a97a6442f2c.cab
+
+[ Microsoft Word 2016 安全更新 (KB3128057) 64 位版本 ]
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2016/12/word-x-none_02a7bb8e3d5771622475bbf719d0303de55c6894.cab
 
 [ Microsoft Office 2016 更新 (KB3141451) 64 位版本 ]
 http://download.windowsupdate.com/c/msdownload/update/software/crup/2016/12/proof-x-none_ee43a1c4579500f6bbf38264efdc213a59e9e96c.cab
