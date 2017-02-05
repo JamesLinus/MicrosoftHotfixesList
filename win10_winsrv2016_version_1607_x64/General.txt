@@ -1,3 +1,3 @@
 KB3211320	http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/01/windows10.0-kb3211320-x64_2abc94fceb4d1cdd908b3bdba473e28e0c061a3d.msu
 KB3214628	http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/01/windows10.0-kb3214628-x64_d447ed93bc47db95cb7f185f282f0d5707746414.msu
-KB3216755	http://download.windowsupdate.com/d/msdownload/update/software/crup/2017/01/windows10.0-kb3216755-x64_6aaaf4518b7a1f9de38e26d089a7d87032da35ec.cab
+KB3216755	http://download.windowsupdate.com/c/msdownload/update/software/crup/2017/01/windows10.0-kb3216755-x64_eba0675fd22087449c80b4d26df6b7035e9fb91f.msu
